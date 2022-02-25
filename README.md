@@ -1,0 +1,2 @@
+# typingTest
+Javascript typing test 
